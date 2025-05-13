@@ -1,12 +1,23 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# VeloRent Bike Rental
 
-Currently, two official plugins are available:
+A responsive bike rental platform with ride selection and promotional sections.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Setup
+1. Clone repo:
+   ```bash
+   git clone https://github.com/rithikargb/velorent-bike-rental.git
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Run locally:
+   ```bash
+   npm run dev
+   ```
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## My Work
+- Built entire frontend UI
+- Implemented responsive layouts
+- Added interactive elements
