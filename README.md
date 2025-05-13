@@ -25,8 +25,3 @@ A responsive bike rental platform with ride selection and promotional sections.
    ```bash
    npm run dev
    ```
-
-## My Work
-- Built entire frontend UI
-- Implemented responsive layouts
-- Added interactive elements
